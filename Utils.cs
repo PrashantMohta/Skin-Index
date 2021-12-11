@@ -5,7 +5,7 @@ using System;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace SyncSong{
+namespace SkinIndex{
     static class Utils{
         //pngquant --quality 4-64 --ext .png -f **/*.png
         public static int SkinSort(Skin x,Skin y){

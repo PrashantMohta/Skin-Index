@@ -6,7 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace SyncSong{
+namespace SkinIndex{
     class SkinDB{
         public static List<Skin> skins = new List<Skin>{};
         

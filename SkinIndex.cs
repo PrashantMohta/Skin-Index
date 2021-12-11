@@ -6,25 +6,23 @@ using GlobalEnums;
 using Modding;
 using UnityEngine;
 
-namespace SyncSong
+namespace SkinIndex
 {
     
-    public class SyncSong : Mod
+    public class SkinIndex : Mod
     {
 
-        internal static SyncSong Instance;
+        internal static SkinIndex Instance;
         string MODS_DIR;
         string HKMP_SKINS = Path.Combine("HKMP","Skins");
         string HKMP_DUPES = Path.Combine("HKMP","Skins_dupes");
 
-        string CK_SKINS = "CustomKnight";
-
         public static string HKMP_SKINS_PATH;
         public static string HKMP_DUPES_PATH;
 
-        public static string CK_SKINS_PATH;
+        public override int LoadPriority() => 0;
 
-        public SyncSong(){
+        public SkinIndex(){
             Instance = this;
 
             //do everything here to avoid HKMP doing things before we do
@@ -35,7 +33,7 @@ namespace SyncSong
         }
         public override string GetVersion()
         {
-            return "1.0";
+            return "0.1-68"; // version + last skin id
         }
 
         public void initDirectories(){
@@ -51,31 +49,18 @@ namespace SyncSong
             HKMP_SKINS_PATH = Path.Combine(MODS_DIR,HKMP_SKINS);
             HKMP_DUPES_PATH = Path.Combine(MODS_DIR,HKMP_DUPES);
 
-            CK_SKINS_PATH = Path.Combine(MODS_DIR,CK_SKINS);
 
             if (!Directory.Exists(HKMP_SKINS_PATH))
             {
                 Directory.CreateDirectory(HKMP_SKINS_PATH);
                 Log("created");
             }
-
-            if (Directory.Exists(CK_SKINS_PATH) && Directory.GetDirectories(CK_SKINS_PATH).Length > 0)
-            {
-                Utils.CopySkins(CK_SKINS_PATH,HKMP_SKINS_PATH,HKMP_DUPES_PATH);
-                Log("copied");
-            }
+            
         }
 
         public override void Initialize()
         {
 
-            ModHooks.Instance.HeroUpdateHook += update;
-        }
-
-
-        public void update()
-        {
-            
         }
 
     }

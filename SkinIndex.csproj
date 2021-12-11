@@ -7,8 +7,8 @@
     <ProjectGuid>{A658D7A5-E9F4-4BE4-84EC-711FDA93F18C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SyncSong</RootNamespace>
-    <AssemblyName>SyncSong</AssemblyName>
+    <RootNamespace>SkinIndex</RootNamespace>
+    <AssemblyName>SkinIndex</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -45,10 +45,10 @@
       <HintPath>..\HollowKnight.Modding\OutputFinal\hollow_knight_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>.\Vanilla\UnityEngine.dll</HintPath>
+      <HintPath>..\Vanilla\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>.\Vanilla\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>..\Vanilla\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -56,7 +56,7 @@
     <Compile Include="Skins/Skin.cs" />
     <Compile Include="Skins/Db.cs" />
     <Compile Include="Utils.cs" />
-    <Compile Include="SyncSong.cs" />
+    <Compile Include="SkinIndex.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="res/skinmap.json" />
 

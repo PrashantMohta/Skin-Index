@@ -1,7 +1,7 @@
 using System.IO;
 using Newtonsoft.Json;
 
-namespace SyncSong{
+namespace SkinIndex{
     class BaseSkin{
         public byte id;
         public string name;

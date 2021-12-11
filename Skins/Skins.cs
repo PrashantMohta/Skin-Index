@@ -1,8 +1,9 @@
 using System.Collections.Generic;
-using System.IO;
 using System;
+using System.IO;
+using System.Diagnostics;
 
-namespace SyncSong{
+namespace SkinIndex{
     class Skins{
        public static Dictionary<string,Skin> GlobalMap = new Dictionary<string,Skin>();
        public static Dictionary<string,Skin> GlobalProxyMap = new Dictionary<string,Skin>();
@@ -38,7 +39,6 @@ namespace SyncSong{
             } else {
                 unknownSkins.Add(hash);
                 var name = new DirectoryInfo(path).Name;
-                // make this 4 => 100
                 localMap[hash] = new Skin((byte)Convert.ToByte(100 + unknownSkins.Count),name,hash,"",path);
                 // potentially give user an option to submit these hashes so that our DB can be updated
             }
@@ -60,7 +60,7 @@ namespace SyncSong{
             }
        }
        public static void GenerateLocalSkinsMap(){
-           string[] Paths = Directory.GetDirectories(SyncSong.HKMP_SKINS_PATH);
+           string[] Paths = Directory.GetDirectories(SkinIndex.HKMP_SKINS_PATH);
            foreach(string path in Paths){
                 processSkin(path);
            }
@@ -74,13 +74,13 @@ namespace SyncSong{
            for(int i=0;i<localSkinPaths.Count;i++){
                if(!File.Exists(Path.Combine(localSkinPaths[i],"id.txt"))){ 
                     var Name = new DirectoryInfo(localSkinPaths[i]).Name;
-                    if(!Directory.Exists(SyncSong.HKMP_DUPES_PATH)){
-                        Directory.CreateDirectory(SyncSong.HKMP_DUPES_PATH);
+                    if(!Directory.Exists(SkinIndex.HKMP_DUPES_PATH)){
+                        Directory.CreateDirectory(SkinIndex.HKMP_DUPES_PATH);
                     }
-                    Directory.Move(localSkinPaths[i],Path.Combine(SyncSong.HKMP_DUPES_PATH,Name));
+                    Directory.Move(localSkinPaths[i],Path.Combine(SkinIndex.HKMP_DUPES_PATH,Name));
                 }
            }
-           Utils.serialiseList(Path.Combine(SyncSong.HKMP_SKINS_PATH,"localmap.json"),localDb);
+           Utils.serialiseList(Path.Combine(SkinIndex.HKMP_SKINS_PATH,"localmap.json"),localDb);
        }
     }
 }
