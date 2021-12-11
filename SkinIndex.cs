@@ -26,7 +26,7 @@ namespace SkinIndex
             Instance = this;
 
             //do everything here to avoid HKMP doing things before we do
-            SkinDB.loadJsonFromAssembly();
+            SkinDB.loadJson();
             initDirectories();
             Skins.GenerateDictionary();
             Skins.GenerateLocalSkinsMap();
