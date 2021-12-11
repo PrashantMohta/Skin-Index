@@ -1,0 +1,410 @@
+[
+	{
+	  "id": 1,
+	  "name": "Moss Knight",
+	  "knight": "C3136FA842199734D1B1FEFC9A56BFA790A065A2",
+	  "knightProxy": "C8E4E29A84A6E3108806672414E68DD9237BB878"
+	},
+	{
+	  "id": 2,
+	  "name": "Angel Knight",
+	  "knight": "B2E18B3DACE0249BFF0528B66DF691EF4003B857",
+	  "knightProxy": "7BFA51A1B2AFAEBB962573F2B65250E51BB31091"
+	},
+	{
+	  "id": 3,
+	  "name": "Grimm",
+	  "knight": "A3B386FC8F668020646CA176B103E263121A310D",
+	  "knightProxy" : "AE31D064061CD43A9BC9BF2FCD7E97BD21982A23"
+	},
+	{
+	  "id": 4,
+	  "name": "Sapphire Knight",
+	  "knight": "BF4EC910D795F0545D806AB19AFC3DF67A7BAB24",
+	  "knightProxy" : "8B5D50AA955BC53840730CE3A00872EA4507D24C"
+	},
+	{
+	  "id": 5,
+	  "name": "the pale king by lime",
+	  "knight": "74B85F91E372FB02CBB6FFD321E9FEEEF36557E9",
+	  "knightProxy": "59C264775AA5EA445A4E3C6BFE13B9EB491FE382"
+	},
+	{
+	  "id": 6,
+	  "name": "Blood Knight (by Akivaq)",
+	  "knight": "CF06353F3910F73C0D043CB7C7A647C970A1C743",
+	  "knightProxy": "83E1BC5FC846ECD4708A5DF1606BF5B5AD485672"
+	},
+	{
+	  "id": 7,
+	  "name": "CHARA1.0 by The dog next door",
+	  "knight": "57CDF8A28E251490DA780FA2C128DA033435D841",
+	  "knightProxy": "AA93412F3337FAC2E98AA3A21ADA1FDA901B766F"
+	},
+	{
+	  "id": 8,
+	  "name": "Celeste_and_Pink by LichOne#5951[TWP]",
+	  "knight": "CA951E469D52AE1CEDB7EDB646897FABFEEA7F6B",
+	  "knightProxy": "D97275E38B21582037BC6CE3F4CE45FEA9D07491"
+	},
+	{
+	  "id": 9,
+	  "name": "Chtholly Nota Seniorious by ChthollistCC",
+	  "knight": "573AC29F4DF8A47CB716226B7380EC7380639271",
+	  "knightProxy": "3AA647B26F3D4B8CFC8EF0CCCDF4D5EB4D67D23F"
+	},
+	{
+	  "id": 10,
+	  "name": "Classic",
+	  "knight": "63824605CCF2B69BABFCB1F73701735C32503C56",
+	  "knightProxy": "ECF74272C14585EECC44F0D44AAFDBB762F0554C"
+	},
+	{
+	  "id": 11,
+	  "name": "Clean Knight by Moitjae06",
+	  "knight": "C69594326A840BF7076132BFEC1A6D750916820B",
+	  "knightProxy": "AF72AF5C562041EA5FE0C5F0C1492EDACD029B28"
+	},
+	{
+	  "id": 12,
+	  "name": "CustomKnight 2",
+	  "knight": "5291C63130DC4547C43FD2B3806005F4CED25838",
+	  "knightProxy": "80F59F7F4E9C46F525FC047748B5BF71FB56109F"
+	},
+	{
+	  "id": 13,
+	  "name": "CustomKnight 3",
+	  "knight": "A37BDD407BEF2B981547C439C17B828CAF91A9D9",
+	  "knightProxy": "10FB92BEA66938359D33F79DEEDCBF9603F86E84"
+	},
+	{
+	  "id": 14,
+	  "name": "CustomKnight 5",
+	  "knight": "E6DD75708CD7AEDD1E0BAFAD37D6B2F96B3C86FA",
+	  "knightProxy": "853C42B702BD47B75343CB5A4018D8BA2D337AFB"
+	},
+	{
+	  "id": 15,
+	  "name": "CustomKnight Knight+Shade-Invisibility",
+	  "knight": "261C997F7C555C37932FCB892BF0AA074283ED59",
+	  "knightProxy": "5A78D90AFD26C46EB6646EFDCC7750B4E1F69A23"
+	},
+	{
+	  "id": 16,
+	  "name": "CustomKnightAcid",
+	  "knight": "217027BD27C570CE9E1AC3CAF21E4A9A568E192E",
+	  "knightProxy": "88C7E2765D4A4A61560B5850A56F486985E6D692"
+	},
+	{
+	  "id": 17,
+	  "name": "CustomKnightDemon",
+	  "knight": "DF9991BAF1F61B199E54C953E699186FBD51C298",
+	  "knightProxy": "2CD5F10CB1104BCB084D8E6A0EF2CA036EAA2A16"
+	},
+	{
+	  "id": 18,
+	  "name": "七夕猫又",
+	  "knight": "21B623744CACD470B8DF29B1928A4FE75E24A2CD",
+	  "knightProxy": "33F1F3F405085C9B05CA9EE8E5018AB68297CABA"
+	},
+	{
+	  "id": 19,
+	  "name": "CustomKnightGhost 2",
+	  "knight": "1AE61FDCDC5E9E2A348662E873171016B9719883",
+	  "knightProxy": "6FEA253EE9BA08E41142B59F34127C58ED0816E6"
+	},
+	{
+	  "id": 20,
+	  "name": "CustomKnightInfected",
+	  "knight": "5E73391C3BBFCB252A3B7E56C1E18E6B1044D063",
+	  "knightProxy": "F74C67CE51FA2B24F9CDC35D30CB6619B976B27E"
+	},
+	{
+	  "id": 21,
+	  "name": "CustomKnightIron",
+	  "knight": "56A570F122473AEDC3F48E84C84E2692CC14A3ED",
+	  "knightProxy": "844923BA3387AA329C4DC39D8459D876589AA59C"
+	},
+	{
+	  "id": 22,
+	  "name": "CustomKnightNeon",
+	  "knight": "618EAAD91EC468216A8D8B1DFFC193974A47639F",
+	  "knightProxy": "FBB72578FE69FB06772CECD9BD5024D53EAC8DFF"
+	},
+	{
+	  "id": 23,
+	  "name": "CustomKnightWeary",
+	  "knight": "987A36164AD2D553B9A720CF92FCCD39666CE17E",
+	  "knightProxy": "36ED4260C388BEC9C841A3855C7A4D8530FE2134"
+	},
+	{
+	  "id": 24,
+	  "name": "Customknight 4",
+	  "knight": "CF1B85C4A55A040008981929D228942CDBD4588B",
+	  "knightProxy": "64C09A749678AFD5BB44AED85D305E66F05B4408"
+	},
+	{
+	  "id": 25,
+	  "name": "Daughter of Hallownest 1.2",
+	  "knight": "D4DE680EBC973809B1F498E5C47C128AF08755AD",
+	  "knightProxy": "D6C7A80B03D98E1F2FCA3461F6306C1F8F9D42A3"
+	},
+	{
+	  "id": 26,
+	  "name": "Dyani The Shiny Princess",
+	  "knight": "9D6A157B665EE001C7580CF4A86002B4803755E3",
+	  "knightProxy": "381F5F56499E0F6B761E1584AF296810F7EE3E06"
+	},
+	{
+	  "id": 27,
+	  "name": "Fyremoth",
+	  "knight": "8A64C8F56A40EACDE95E357BD177055D26FAB62A",
+	  "knightProxy": "53D430224FE9D432C7C9B51D7C99D6A7AB276A54"
+	},
+	{
+	  "id": 28,
+	  "name": "GlitchKnightv1.0 by Annie",
+	  "knight": "A0137A445F2B20656101EEBB7E619F91603BB5B7",
+	  "knightProxy": "BB2ABDC963A2AADEE76658D79ED4ACD83ACB38BD"
+	},
+	{
+	  "id": 29,
+	  "name": "Godmaster",
+	  "knight": "3026861A7A6A841059896FB9760ECF8455C8B145",
+	  "knightProxy": "ABE9B7B402CCB7D640C6C0A8EB342F43659E90B9"
+	},
+	{
+	  "id": 30,
+	  "name": "Graig Knight (made by Graig)",
+	  "knight": "83D4809DBCDD2830C2F3F74E19F2A06634A3BB78",
+	  "knightProxy": "CB9F1038B6A37B1FD2F2E795CE4F457BADFAAEAC"
+	},
+	{
+	  "id": 31,
+	  "name": "Grimm_Knight by 复印纸",
+	  "knight": "B8940BC70545AEA6CA87F6B1685217EEC272CEE2",
+	  "knightProxy": "F97C77B60D55228E95705F27DCC7A41ADDC4F000"
+	},
+	{
+	  "id": 32,
+	  "name": "Halloween",
+	  "knight": "42A4DF77068BE5E3251F34537306A759E00FC3C5",
+	  "knightProxy": "066901AA217A50CE82C835D65ED26035E0C66D15"
+	},
+	{
+	  "id": 33,
+	  "name": "Hat Kid",
+	  "knight": "1CB242A4E4123320505A867D5063DE9BA4E9547F",
+	  "knightProxy": "602D94DF087190D653DB932C1BC12CDA758AF1B6"
+	},
+	{
+	  "id": 34,
+	  "name": "Hornight by LichOne#5951[TWP]  v 0.4",
+	  "knight": "7C998C017AFAA63556824C4AFFF38AED38A74D38",
+	  "knightProxy": "F4264B234EC1C5E2C5B50FA49CD09AB98615B28D"
+	},
+	{
+	  "id": 35,
+	  "name": "Infected Knight by 复印纸",
+	  "knight": "D0FA6E11C25188FC9DC70477AD403333CE3440B5",
+	  "knightProxy": "AB9FA92A71748A53BE7211D5E2104601C45819FC"
+	},
+	{
+	  "id": 36,
+	  "name": "KH2 Sora Knight by Maximal Nightwing (All Sprites) and Irassimera (Ideas and Feedback)",
+	  "knight": "970C679675ED2CFCD463B64ACC39EE1B121F3BEC",
+	  "knightProxy": "A8727FE0181404AE461BAAFAA1875319BC4E8738"
+	},
+	{
+	  "id": 37,
+	  "name": "Killer Whale by Scorpion.Rufeul",
+	  "knight": "5641725E575CE8612D55BAB9C92544BCE6FC3AD4",
+	  "knightProxy": "21FB78BED8BE488D398A65F6B426EA84F8457719"
+	},
+	{
+	  "id": 38,
+	  "name": "King_Crimson by LichOne#5951",
+	  "knight": "A5CF8D96443079826A3EC999279C5C6BBDCCCD01",
+	  "knightProxy": "E1644CE9CF77EDDB7B2B7B0488BEC0A95DF6CEC5"
+	},
+	{
+	  "id": 39,
+	  "name": "Lapis Lightning by Biscuit",
+	  "knight": "BFA1D45BB618D8EC8A041AE6871DDD1CF737926F",
+	  "knightProxy": "AC65A5E1E87A62EE22C1F81369A0BE9D95184965"
+	},
+	{
+	  "id": 40,
+	  "name": "Laurel Knight",
+	  "knight": "F3DC6C3A774098F9529B7EA9A88BD8FB2F1111C2",
+	  "knightProxy": "4E44225F2352F9A6E431C1C0E956528AF1B7BD82"
+	},
+	{
+	  "id": 41,
+	  "name": "Marble_Knight by LichOne#5991",
+	  "knight": "8967BACCDDC79CBA3623D35A85436FAC0FE6749F",
+	  "knightProxy": "A47AF8F008456F5D3A88C3A8E2BA13ECB34C0CF7"
+	},
+	{
+	  "id": 42,
+	  "name": "Mustard_Knight",
+	  "knight": "9E4B2943A041E58393960D8CC7843B46AFBE31BF",
+	  "knightProxy": "4DE0DE08D1BA18A4F844756A6408F3AC324FEFC9"
+	},
+	{
+	  "id": 43,
+	  "name": "Newborn Spring",
+	  "knight": "4190B0076E90BF5533B7D07745985115D64BE4F2",
+	  "knightProxy": "AD6A3999DDF2E7226A3E9715C8E28405B6E7D201"
+	},
+	{
+	  "id": 44,
+	  "name": "OWO Knight",
+	  "knight": "7F1F50CD9B5891141A8D7ED0F33F3167DE4C5A72",
+	  "knightProxy": "1AF86BAE186A043B2D337D81A935C4EBC2098F5A"
+	},
+	{
+	  "id": 45,
+	  "name": "Pink_Bow by GingkoX",
+	  "knight": "3034A26A323B005136154456CB9487092395C981",
+	  "knightProxy": "6D61223CE764C7A286365D271316E29B5CF00524"
+	},
+	{
+	  "id": 46,
+	  "name": "Pink_Bow2.0 by GingkoX",
+	  "knight": "EB2CEB9B9353A6A27A27F9F5FFCE8554350E6150",
+	  "knightProxy": "AED6E32B3723B4FD0EB4E0ADF7BABD56EEB2C201"
+	},
+	{
+	  "id": 47,
+	  "name": "Pixel Knight",
+	  "knight": "D7325ECDA3B142F3EFA67A7408E3FEC04E311B27",
+	  "knightProxy": "7CF849BD41B6A73B785C49C95EEE8476956358A7"
+	},
+	{
+	  "id": 48,
+	  "name": "Prince of Axolomeh",
+	  "knight": "405D438F0E93C92120D776925EB340C699AE13C3",
+	  "knightProxy": "0AC2AA91E13FEF5539D14E6BF3D102566949DF8F"
+	},
+	{
+	  "id": 49,
+	  "name": "Purple Knight By VoidIn",
+	  "knight": "E0EEAB7660CAC6DE386BF83DC6F8016CAD6C265E",
+	  "knightProxy": "34F5950FD00C80B6A108C3BF571A4684C25B75BA"
+	},
+	{
+	  "id": 50,
+	  "name": "Rainbow Knight",
+	  "knight": "E536280F866F142BA94A43F3C64CAFD33A0DA56E",
+	  "knightProxy": "B37CBDA5187AE3AD931E07C8C4241D50B285D0D5"
+	},
+	{
+	  "id": 51,
+	  "name": "RegalKnight (purple) (Made by Knightmere)",
+	  "knight": "EF0E4F9068750E70C1276819533907605DDF4262",
+	  "knightProxy": "F545BDA40BFFCAFAFCE6D261A5FDB289166B1740"
+	},
+	{
+	  "id": 52,
+	  "name": "Rick Knight",
+	  "knight": "5177849D5EB793CD9228BD1B01ED32AAE6A0F2B9",
+	  "knightProxy": "070D975B3681DEC669E41EACD443CED699DD22AF"
+	},
+	{
+	  "id": 53,
+	  "name": "Scarlet Crisis v1.0 by AmberWhale",
+	  "knight": "5A08D87B15B20E0FE12B80A81077DC2520DC64FF",
+	  "knightProxy": "D59E210185EBF2D7E1C1FA99F9F3B4A60CF5703A"
+	},
+	{
+	  "id": 54,
+	  "name": "Skadiv3.0 by Qqi_ovo[TWP]",
+	  "knight": "74024322926A536E55C0CC7FE875F0A91A3F726D",
+	  "knightProxy": "A34AEE17EBCA78EA8065EE9AED29A77797FFB30A"
+	},
+	{
+	  "id": 55,
+	  "name": "Smolaire",
+	  "knight": "734D8C26CFEBD9FDF5CFC6C6FB87D3BC2B09C1FF",
+	  "knightProxy": "18C8F8C6E39BF27559CB5C778365D4200C9060A7"
+	},
+	{
+	  "id": 56,
+	  "name": "StarBunny by 甜茶奶芙",
+	  "knight": "C8A71251F65E11B1B12A78A74CC1180308A641D8",
+	  "knightProxy": "06C5332047B0E7996FFF666D8092FD3D42B804AD"
+	},
+	{
+	  "id": 57,
+	  "name": "Stary_Knight by Bubbleko[TWP]",
+	  "knight": "1586B8DAC58092763A71B61DD5437D8A61FCF0E2",
+	  "knightProxy": "F5E2F136D5F24B9AB300BCBD13B96897BB1EB75E"
+	},
+	{
+	  "id": 58,
+	  "name": "Summer",
+	  "knight": "CB358659C6B9960480EF71DF1A2A73B4C6635A71",
+	  "knightProxy": "B8A9449F7E812EF94012C4ECF1FBCC88BD43D8CC"
+	},
+	{
+	  "id": 59,
+	  "name": "Tanjirou by 写与",
+	  "knight": "E6B2D1CDD91AD610DA5585663D6D31B5C193848E",
+	  "knightProxy": "20C8D395B060D984DFA7EB59BF5033F8234EDFF6"
+	},
+	{
+	  "id": 60,
+	  "name": "Trans_Knight by LichOne#5951[TWP]",
+	  "knight": "0255170C3A33DC6C6C5713906B076127233DEE01",
+	  "knightProxy": "1E4025AA2C035CEE44FC59F48CA5030EE82F76D9"
+	},
+	{
+	  "id": 61,
+	  "name": "Uninfected Vessel by 羽灵翼",
+	  "knight": "F96D1AA1B507267ADF616CED92389D5934FCB822",
+	  "knightProxy": "179E376B1AE298AC24585B2359EE6717B76005C9"
+	},
+	{
+	  "id": 62,
+	  "name": "Void_Knight by LichOne#5951[TWP]",
+	  "knight": "79BC0C11AC9BB4930331DF63C6978BAE68278BD0",
+	  "knightProxy": "E13700C1116364C4448551AB73CBC32F5801B454"
+	},
+	{
+	  "id": 63,
+	  "name": "WhiteCloak",
+	  "knight": "D352ECA8165E79D291D027621702642609A6FF45",
+	  "knightProxy": "9C357C6D5D6A8255632716A8F963161927351087"
+	},
+	{
+	  "id": 64,
+	  "name": "Yeah Whatever 3.0 (by SFGrenade)",
+	  "knight": "BBAF46417D40364DE5A6A38C5EC0E7F4683C3FA2",
+	  "knightProxy": "9B4258243AF88BA6B0CCC20B5D9986D80DA7D49C"
+	},
+	{
+	  "id": 65,
+	  "name": "Zote",
+	  "knight": "9E7018947494414ED352DFD74DB226FAE41BE689",
+	  "knightProxy": "757601A20C2D63A1A398FD15852099E008900E6F"
+	},
+	{
+	  "id": 66,
+	  "name": "pure vessel",
+	  "knight": "05D99BE2E006044289751CB123AF1492F268956A",
+	  "knightProxy": "C4D82749EA422433AE6D9F0544EBBC89C5A031D6"
+	},
+	{
+	  "id": 67,
+	  "name": "the hollow knight",
+	  "knight": "B6EC0F3398048A7221B5F30BE755A76914D485B7",
+	  "knightProxy": "4A82E9B919560EF21310DACE1ACA9B0A259310B4"
+	},
+	{
+	  "id": 68,
+	  "name": "Thunder Knight",
+	  "knight": "D7F977116FB632B6BA2E843E4B3D62272914DC47",
+	  "knightProxy": "0CB99377CA8EFAC6130088A2072B7F0A9ED04727"
+	}
+  ]
